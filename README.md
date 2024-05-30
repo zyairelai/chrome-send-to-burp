@@ -2,7 +2,7 @@
 Chrome extension send to burp with 1 click, keep your burp history clean 
 
 ## How to load the extension
-1. Download the zip [here](https://github.com/zyairelai/chrome-send-to-burp/releases/download/uwu/chrome-proxy-extension.zip)
+1. Download the zip from the release, or just copy & paste the `manifest.json` and `background.js`
 2. Unzip the file
 3. Go to `chrome://extensions`
 4. Enable Developer Mode
