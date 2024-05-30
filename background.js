@@ -13,7 +13,7 @@ chrome.action.onClicked.addListener((tab) => {
                   host: '127.0.0.1',
                   port: 8080
                 },
-                bypassList: ['clients4.google.com', 'www.google.com', 'safebrowsing.google.com', 'syndication.twitter.com', 'connect.facebook.net']
+                bypassList: ['clients4.google.com', 'www.google.com', "www.googleapis.com", 'safebrowsing.google.com', 'syndication.twitter.com', 'connect.facebook.net']
               }
             },
             scope: 'regular'
